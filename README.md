@@ -1,5 +1,10 @@
 # "break;" and "continue;" statements in C#
 
+// Files;
+
+1. Downoad "Standalone .exe" folder if you just want to use the program demonstration;
+2. Download "Source" folder if you want to see the source code (VS C#);
+
 // Program description;
 
 The program shows how would "break;" or "continue;" statements change the "for" loop. 
