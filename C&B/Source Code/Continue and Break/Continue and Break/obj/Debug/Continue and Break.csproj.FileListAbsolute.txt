@@ -1,0 +1,14 @@
+C:\Users\Ivan\source\repos\Continue and Break\Continue and Break\bin\Debug\Continue and Break.exe.config
+C:\Users\Ivan\source\repos\Continue and Break\Continue and Break\bin\Debug\Continue and Break.exe
+C:\Users\Ivan\source\repos\Continue and Break\Continue and Break\bin\Debug\Continue and Break.pdb
+C:\Users\Ivan\source\repos\Continue and Break\Continue and Break\obj\Debug\Continue_and_Break.Form1.resources
+C:\Users\Ivan\source\repos\Continue and Break\Continue and Break\obj\Debug\Continue_and_Break.Properties.Resources.resources
+C:\Users\Ivan\source\repos\Continue and Break\Continue and Break\obj\Debug\Continue and Break.csproj.GenerateResource.Cache
+C:\Users\Ivan\source\repos\Continue and Break\Continue and Break\obj\Debug\Continue and Break.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\source\repos\Continue and Break\Continue and Break\obj\Debug\Continue and Break.exe
+C:\Users\Ivan\source\repos\Continue and Break\Continue and Break\obj\Debug\Continue and Break.pdb
+C:\Users\Ivan\source\repos\Continue and Break\Continue and Break\bin\Debug\Continue and Break.exe.manifest
+C:\Users\Ivan\source\repos\Continue and Break\Continue and Break\bin\Debug\Continue and Break.application
+C:\Users\Ivan\source\repos\Continue and Break\Continue and Break\obj\Debug\Continue and Break.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\source\repos\Continue and Break\Continue and Break\obj\Debug\Continue and Break.exe.manifest
+C:\Users\Ivan\source\repos\Continue and Break\Continue and Break\obj\Debug\Continue and Break.application
